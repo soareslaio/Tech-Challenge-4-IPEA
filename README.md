@@ -31,8 +31,8 @@ Este projeto realiza uma análise detalhada dos preços do petróleo Brent e cri
   
 **Deploy do Projeto**
 
-Plataforma: Streamlit
-Funcionalidade: Dashboard interativo para análise e previsão dos preços do petróleo Brent.
+- Plataforma: Streamlit
+- **Funcionalidade:** Dashboard interativo para análise e previsão dos preços do petróleo Brent.
 
 **Conclusão**
 Este projeto oferece uma visão abrangente das tendências e variações nos preços do petróleo Brent, utilizando ferramentas robustas para análise e visualização de dados, e proporciona previsões precisas para apoiar decisões estratégicas no setor petrolífero.
