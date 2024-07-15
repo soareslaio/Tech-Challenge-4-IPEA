@@ -36,3 +36,5 @@ Este projeto realiza uma análise detalhada dos preços do petróleo Brent e cri
 
 **Conclusão**
 Este projeto oferece uma visão abrangente das tendências e variações nos preços do petróleo Brent, utilizando ferramentas robustas para análise e visualização de dados, e proporciona previsões precisas para apoiar decisões estratégicas no setor petrolífero.
+
+Link do deploy: https://techchallenge4-emerson-e-laio.streamlit.app/
