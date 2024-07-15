@@ -23,8 +23,7 @@ Este projeto realiza uma análise detalhada dos preços do petróleo Brent e cri
 
 **Distribuição dos Preços (Boxplot):**
 - Mediana relativamente alta, indicando metade dos valores acima de um preço significativo.
-- Presença de outliers, indicando períodos de preços excepcionalmente altos ou baixos.
-
+- Sem Presença de outliers.
 **Modelos Utilizados:**
 - ARIMA
 - Prophet (selecionado pela precisão com menor erro percentual médio absoluto - MAPE de 9,98%)
